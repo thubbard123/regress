@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultBatchTarget
+  Version="1"
+  Comment="New Batch Target">
+  <Targets>
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Clean XHTML"
+      Type="Clean XHTML"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="DITA"
+      Type="DITA"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="DotNet Help"
+      Type="DotNet Help"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Eclipse Help"
+      Type="Eclipse Help"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="ePUB"
+      Type="EPUB"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML Help"
+      Type="HTML Help"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5"
+      Type="HTML5"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PDF"
+      Type="PDF"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="WebHelp"
+      Type="WebHelp"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="WebHelp Mobile"
+      Type="WebHelp Mobile"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Word"
+      Type="Word"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="XHTML Book"
+      Type="XHTML Book"
+      Build="true" />
+  </Targets>
+</CatapultBatchTarget>
